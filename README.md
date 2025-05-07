@@ -21,3 +21,4 @@ The goal is to help healthcare analysts and decision-makers enhance workflow, re
 - **Excel** – Initial data cleaning and exploration
 
 ![ER Dashboard](https://github.com/Proma00/Hospital-Room-dashboard/blob/main/Screenshot%202025-05-07%20232516.png)
+![ER Dashboard](https://github.com/Proma00/Hospital-Room-dashboard/blob/main/emergency%20room.mp4)
