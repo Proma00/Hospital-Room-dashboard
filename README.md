@@ -20,8 +20,4 @@ The goal is to help healthcare analysts and decision-makers enhance workflow, re
 - **SQL** – Data querying and transformation  
 - **Excel** – Initial data cleaning and exploration
 
-
-> Replace `YOUR_VIDEO_ID_HERE` with the actual YouTube video ID from your uploaded video link.
-
-## 📂 Project Structure
-
+![ER Dashboard](https://github.com/Proma00/Hospital-Room-dashboard/blob/main/Screenshot%202025-05-07%20232516.png)
